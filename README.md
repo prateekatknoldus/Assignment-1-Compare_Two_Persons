@@ -4,5 +4,5 @@ In this Assignment, I have created a class named Person and mixed it with Ordere
 
 # For example:
 Input: personOne = new Person("Prateek", 21) and personTwo = new Person("Prateek", 25)
-and if we check: personOne < personTwo
+and if we check: personOne < personTwo Then
 Output: true
